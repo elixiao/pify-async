@@ -1,0 +1,14 @@
+{
+  "name": "pify-async",
+  "version": "0.0.1",
+  "description": "promisified async package",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "elixiao",
+  "license": "MIT",
+  "dependencies": {
+    "@types/async": "^2.0.40",
+    "async": "^2.4.1",
+    "pify": "^3.0.0"
+  }
+}
